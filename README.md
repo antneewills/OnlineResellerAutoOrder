@@ -33,10 +33,10 @@ Python modules can be run from the cmd line: `python <module name>`
 
 The following files are provided to demonstrate how custom user parameters can be
 stored in secondary modules and imported as needed to the main module.
- - credentials.py
+ - credentials.py: 
    Used to specify *username* and *password* for the online reseller account.
 
- - productUrls.py
+ - productUrls.py: 
    Used to specify the URLs for the products to be ordered. URLs can be obtained
    by navigating to the pages manually then copying from the browser and pasting
    into the URLs array. The existing list in the file was provided as an example.
